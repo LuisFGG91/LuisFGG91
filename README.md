@@ -15,11 +15,11 @@ Soy un Analista de Sistemas y estudiante de Ingeniería en Informática con una 
 
 ## Experiencia Profesional
 
-### Academia Coding Dojo - Instructor Full Stack Python
+### Academia Coding Dojo - Instructor Full Stack Python & MERN
 **Marzo 2022 – Actualidad, Chile**
 - Desarrollo e instrucción en Front End y Back End, dominando JavaScript, Python, HTML, CSS y arquitectura web.
 - Desarrollo de 34 evaluaciones en tecnologías mencionadas.
-- Experiencia en programación avanzada en Python, consultas a bases de datos y desarrollo de aplicaciones web con Django.
+- Experiencia en programación avanzada en Python y Javascript , consultas a bases de datos relacional y no relacional, desarrollo de aplicaciones web con Django y Express.
 - Enseñanza y monitoreo de 88 adolescentes, enfocándome en mejorar su motivación y resiliencia en el aprendizaje.
 
 ### Emaresa Gestión & Servicios - Analista Programador
